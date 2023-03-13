@@ -1,9 +1,5 @@
 # Atividade 1 - Criando uma Azure Function com o Visual Code
 
-https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-csharp?tabs=in-process
-
-https://learn.microsoft.com/en-us/training/modules/create-serverless-logic-with-azure-functions/5-add-logic-to-the-function-app?pivots=javascript
-
 Passos
 
 1 - Instalar o Visual Code, versão x64 para Windows.
